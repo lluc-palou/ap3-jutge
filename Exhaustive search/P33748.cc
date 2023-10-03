@@ -22,6 +22,7 @@ Algorithms:
 #include <string>
 using namespace std;
 
+// Generates the search tree and writes the complete partial solutions. 
 void write_subsets(const vector<string>& words,
                    vector<bool>& chosen,
                    uint idx,

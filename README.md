@@ -7,6 +7,8 @@
 
 `g++ -Wall -O3 code_file_name -o executable_file_name`
 
+## Useful terminal notation
+
 <p align="justify">Then, wheter we want to feed our executable program with an input file, we can run the following command in the temrinal, providing a test input file.</p>
 
 `./executable_file_name < test_input_file`

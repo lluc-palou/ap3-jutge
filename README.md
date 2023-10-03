@@ -17,3 +17,7 @@
 
 `./executable_file_name < test_input_file | wc`
 
+<p align="justify">We can use too the following command that shows to the user the local execution time of the program, to have an idea, jutge will process your program since 1s execution at you local environment.</p>
+
+`time ./executable_file_name < test_input_file`
+

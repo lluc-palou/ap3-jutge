@@ -1,4 +1,4 @@
-# ap3-jutge
+# ap3-jutge (Algorithmics and Programming III)
 <p align="justify">This repository contains codes and helpful tools for AP3 (Algorithmic and Programming III) course.</p>
 
 ## Compilation settings

@@ -23,8 +23,8 @@
 
 <p align="justify">Just to remember known C++ code notation, the following code exemplifies the C++ property to identify automatically a variable type to ease the process of code writting in a complex context. The following code fragment corresponds to a kind of code structure known as RANGE FOR.</p>
 
-`D = vector<vector<double>>(n, vector<double>(n));
-for (auto& R : D) for (auto& d : R) cin >> d;`
+`D = vector<vector<double>>(n, vector<double>(n));`
+`for (auto& R : D) for (auto& d : R) cin >> d;`
 
 <p align="justify">Here, auto allows the compiler to identify the variable type, in this case, the first variable type is vector<double>, and the second variable type is double.</double>.</p>
 

@@ -5,7 +5,9 @@
 
 <p align="justify">As we are going to use C++ as the main programming language in this course, i have installed g++ compiler in my ubuntu (Windows Subsystem for Linux) distribution. The following line is a remainder about the flags we have to use in order to compile the code file using the cited compiler, show all generated warnings during compilation, choose the level of optimization we require and choose the name of the output file that we will execute to run the final program.</p>
 
-`g++ -Wall -O3 -std=c++17 code_file_name -o executable_file_name`
+```
+g++ -Wall -O3 -std=c++17 code_file_name -o executable_file_name
+```
 
 ## Useful terminal notation
 
